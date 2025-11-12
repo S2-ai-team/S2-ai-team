@@ -68,7 +68,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=S2-ai-team&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j"/>
 </p>
 
-| 🏅 연도 | 대회명 | 결과 |
+| 🏅 Year | Competition | Result |
 |:--:|:--|:--|
 | 2025 | 제14회 로봇융합페스티벌 IRO Camp AI Soccer | 🥇 1등 (대전시 교육감상) |
 | 2024 | 국제로봇올림피아드 세계대회 in 그리스 (창작) | 🥈 2등 (은메달) |
