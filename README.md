@@ -76,7 +76,7 @@
 | 2024 | IRO 본선 로봇축구 | 🥉 3등 (동상) |
 | 2024 | K-로봇대회 with 로빛 | 🎖️ 4등 (장려상) |
 | 2023 | IRO 본선 로봇 개더링 종목 | 🎖️ 4등 (장려상) |
-| ... | And many more achievements not listed here | ... |
+| ... | And many more achievements not listed here | . . . |
 
 ---
 
